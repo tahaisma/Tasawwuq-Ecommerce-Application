@@ -1,7 +1,7 @@
 # Ecommerce APP
 
 A new Flutter project.
-
+![Image](https://github.com/user-attachments/assets/2c244aea-3ae4-4863-b708-31c74049415b)
 ## Getting Started
 <!-- Failed to upload "project run.mp4" -->
 This project is a starting point for a Flutter application.
