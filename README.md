@@ -1,7 +1,6 @@
 # Ecommerce APP
 
 A new Flutter project.
-https://github.com/user-attachments/assets/5cfaa53a-b8b5-409d-a245-51d099c19491
 
 ## Getting Started
 <!-- Failed to upload "project run.mp4" -->
